@@ -1,2 +1,2 @@
-# HotelAlura-AluraLatam-ProgramaOne
-HotelAlura-AluraLatam-ProgramaOne
+# Hotel Alura
+Hotel Alura
